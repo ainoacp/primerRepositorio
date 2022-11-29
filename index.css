@@ -1,0 +1,22 @@
+.title-green {
+    color: greenyellow;
+    font-size: x-large;
+    font-family: 'Lucida Sans';
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.subtitle-darkgreen {
+    color: darkgreen;
+    font-size: large;
+    font-family: 'Arial';
+    font-style: italic;
+}
+
+.text-container {
+    padding-left: 50px;
+    color: plum;
+    font-size: medium;
+    font-family: 'Arial';
+
+}
